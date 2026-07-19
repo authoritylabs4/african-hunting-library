@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://authoritylabs4.github.io/african-hunting-library/sitemap.xml
